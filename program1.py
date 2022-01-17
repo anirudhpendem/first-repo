@@ -1,4 +1,4 @@
-# URL using Regular expressions
+# URL Pattern using Regular expressions
 import re
 
 regx =("((http|https)://)|(www.)?"+"[a-zA-Z0-9@:%._\\=//&?#~+]"+"{2,}\\.[a-zA-Z]"+"{2,}\\b([a-zA-Z0-9@:%"+"._\\+~#?&//=]*)")
